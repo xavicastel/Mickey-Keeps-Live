@@ -64,7 +64,7 @@ class MoverThread(QtCore.QThread):
 class MainWindow(QtWidgets.QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Mouse Mover")
+        self.setWindowTitle("Mickey Bumper")
         form = QtWidgets.QFormLayout(self)
 
         self.dur = QtWidgets.QLineEdit("60");  form.addRow("Duration (min):",   self.dur)
