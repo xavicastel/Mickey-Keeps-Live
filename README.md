@@ -1,6 +1,6 @@
-# Mickey-Keeps-Live
+# Mickey-Bumper
 
-**Mickey-Keeps-Live** is a lightweight Windows utility that simulates minimal mouse movement (“mickeys”) to prevent the system from entering idle states such as screen sleep. It leverages the native **SendInput** API to generate genuine input events without dragging your cursor off-screen.
+**Mickey-Bumper* is a lightweight Windows utility that simulates minimal mouse movement (“mickeys”) to prevent the system from entering idle states such as screen sleep. It leverages the native **SendInput** API to generate genuine input events without dragging your cursor off-screen.
 
 ## Features
 
