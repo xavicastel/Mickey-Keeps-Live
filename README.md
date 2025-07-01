@@ -28,4 +28,4 @@
    Clone or download the repository, then build a self-contained executable:
    ```bat
    pip install pyinstaller
-   pyinstaller --onefile --windowed Mickey-Keeps-Live.py
+   pyinstaller --onefile --windowed Mickey-Bumper.py
