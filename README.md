@@ -28,4 +28,5 @@
    Clone or download the repository, then build a self-contained executable:
    ```bat
    pip install pyinstaller
-   pyinstaller --onefile --windowed mickey_bumper.py
+   pyinstaller --clean --onefile --windowed --icon=icon256x256.ico --add-data "icon256x256.ico;." mickey_bumper.py
+   
